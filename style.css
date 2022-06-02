@@ -23,3 +23,6 @@ body {
   background: url("./image.jpg");
   background-size: cover;
 }
+.dragging {
+  border: 2px solid #ccc;
+}
